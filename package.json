@@ -1,0 +1,13 @@
+{
+  "name": "upwork-job-scraper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "apify": "^3.0.0",
+    "puppeteer": "^21.3.8",
+    "nodemailer": "^6.9.8"
+  }
+}
