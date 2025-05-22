@@ -128,29 +128,6 @@ Thumbs.db
 
 ---
 
-### 🏷 GitHub Topics 
-
-```bash
-apify
-upwork
-automation
-puppeteer
-freelance-tools
-job-scraper
-workflow-automation
-```
-
----
-
-*rate
-
-*experienceLevel
-
-*skills
-
-*description
-
-*url
 
 ## 🛠 How to Deploy to Apify
 1. Go to Apify Console
@@ -167,10 +144,6 @@ MIT License — use it freely, modify, and contribute back if you improve it �
 ✨ Built by Skyler Seegmiller
 For automation services, reach out at 8om8work.com
 
-yaml
-Copy
-Edit
-
 ---
 
 ### 📄 `LICENSE` (MIT)
@@ -185,8 +158,8 @@ of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 
 (You know the drill. Want me to paste the whole license? Just say so.)
-🏷 Recommended GitHub Topics
-In your repo settings (or via CLI/GitHub UI), add these topics:
+```
+🏷GitHub Topics
 
 nginx
 Copy
