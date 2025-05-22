@@ -128,7 +128,7 @@ Thumbs.db
 
 ---
 
-### 🏷 GitHub Topics (Copy/paste for CLI or web UI)
+### 🏷 GitHub Topics 
 
 ```bash
 apify
@@ -141,9 +141,6 @@ workflow-automation
 ```
 
 ---
-
-Let me know if you want me to add **badges** (npm, license, stars, etc.) or generate a **GIF demo preview** with a quick script to record it clean.
-
 
 *rate
 
